@@ -1,7 +1,10 @@
-### Hi there 👋😃
+### Hi there everyone👋😃
 
-I'm a Full Stack developer focused on Microsoft technologies (Net Framework and Net Core) and Angular 
+I'm a Full Stack developer focused web development, agile development projects, leadership and all new things I can learn in order to be a better person and help others with their problems.
 
+Most of my experience has been on Microsoft technologies (Net Framework and Net Core) and Angular.
+
+I love everything related with technology and how it is related with humans.
 
 🔭 I’m currently working on my new website <3 ...
 
