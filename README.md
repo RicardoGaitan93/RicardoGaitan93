@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋😃
+
+I'm a Full Stack developer focused on Microsoft technologies (Net Framework and Net Core) and Angular 
+
 
 🔭 I’m currently working on my new website <3 ...
 
